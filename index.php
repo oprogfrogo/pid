@@ -229,7 +229,7 @@
                     <div class="single-feature text-center">
                         <div class="icon">
                             <div class="icon-cell">
-                                <img src="assets/img/feture/f1.png" alt="">
+                                <i class="fa fa-cogs fa-2x"></i>
                             </div>
                         </div>
                         <h3>Aritificial Intelligence</h3>
@@ -243,7 +243,7 @@
                     <div class="single-feature text-center">
                         <div class="icon">
                             <div class="icon-cell">
-                                <img src="assets/img/feture/f2.png" alt="">
+                                <i class="fa fa-android fa-2x"></i>
                             </div>
                         </div>
                         <h3>Robotics</h3>
@@ -256,7 +256,7 @@
                     <div class="single-feature text-center">
                         <div class="icon">
                             <div class="icon-cell">
-                                <img src="assets/img/feture/f3.png" alt="">
+                                <i class="fa fa-industry fa-2x"></i>
                             </div>
                         </div>
                         <h3>Industry</h3>
@@ -449,61 +449,6 @@
         </div>
     </section>
     <!-- Team area end -->
-
-    <section id="work-feture" class="work-feture-area section-big">
-        <div class="container">
-            <div class="row">
-                <!-- section-title -->
-                <div class="section-title">
-                    <h2>How it’s   <span>Work</span></h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="work-feture mt-30">
-                        <div class="sw-feture mt-60">
-                            <div class="wf-icon">
-                                <i class="fa fa-envira"></i>
-                            </div>
-
-                            <div class="swf-text">
-                                <h3>Lorem Ipsum is simply dummy </h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and been typesetting industry. Lorem Ipsum hasthe industry's standard dummy text ever since the 1500s </p>
-                            </div>
-                        </div>
-                        <div class="sw-feture mt-60">
-                            <div class="wf-icon">
-                                <i class="fa fa-paper-plane"></i>
-                            </div>
-
-                            <div class="swf-text">
-                                <h3>Lorem Ipsum is simply dummy </h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and been typesetting industry. Lorem Ipsum hasthe industry's standard dummy text ever since the 1500s </p>
-                            </div>
-                        </div>
-                        <div class="sw-feture mt-60">
-                            <div class="wf-icon">
-                                <i class="fa fa-paper-plane"></i>
-                            </div>
-
-                            <div class="swf-text">
-                                <h3>Lorem Ipsum is simply dummy </h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and been typesetting industry. Lorem Ipsum hasthe industry's standard dummy text ever since the 1500s </p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-md-5 col-md-offset-1">
-                    <div class="work-feture-img mt-30">
-                        <img src="assets/img/work/work-feture.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- Faq area Start -->
     <section id="faq" class="faq-area">
