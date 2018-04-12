@@ -84,7 +84,7 @@
                                         <li><a class="smooth_scroll" href="#screenshot"> screenshot</a></li>
                                         <li><a class="smooth_scroll" href="#pricing">Pricing</a></li>
                                         <li><a class="smooth_scroll" href="#team">Team</a></li>
-                                        <li><a class="smooth_scroll" href="#">Review</a></li>
+                                        <li><a class="smooth_scroll" href="#review">Review</a></li>
                                         <li><a class="" href="blog.html">Blog</a></li>
                                     </ul>
                                 </nav>
@@ -142,8 +142,8 @@
                                 <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
                                     <div class="slider-content">
                                         <div class="slider-text">
-                                            <h2>Make a beautiful life</h2>
-                                            <h3>with our api</h3>
+                                            <h2>Autonomous Control</h2>
+                                            <h3>precise and automatic</h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
                                             <a href="" class="btn btn-active">Started Now</a>
                                             <a href="" class="btn">Read More</a>
@@ -171,9 +171,9 @@
                                 <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
                                     <div class="slider-content">
                                         <div class="slider-text">
-                                            <h2>Make a beautiful life</h2>
-                                            <h3>with our api</h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                                            <h2>Zero Model Architecture</h2>
+                                            <h3>with our algorithm</h3>
+                                            <p>Rid the need to design a model for automation. Our algorithm makes automation autonomous. </p>
                                             <a href="" class="btn btn-active">Started Now</a>
                                             <a href="" class="btn">Read More</a>
                                         </div>
@@ -203,7 +203,7 @@
             <div class="row">
                 <!-- section-title -->
                 <div class="section-title">
-                    <h2>Awesome <span>Features</span></h2>
+                    <h2>A Modern PID <span>for A Modern Age</span></h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
                 </div>
             </div>
@@ -340,7 +340,7 @@
             <div class="row">
                 <!-- section-title -->
                 <div class="section-title ">
-                    <h2>Creative <span>Team</span></h2>
+                    <h2>Contributing <span>Members</span></h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
                 </div>
             </div>
@@ -362,8 +362,8 @@
                         </div>
 
                         <div class="team-deg">
-                            <h3>Vone pual</h3>
-                            <h4>Web Designer</h4>
+                            <h3>Ron</h3>
+                            <h4>Systems Engineer</h4>
                         </div>
                     </div>
                 </div>
@@ -383,8 +383,8 @@
                         </div>
 
                         <div class="team-deg">
-                            <h3>Retina Ready</h3>
-                            <h4>Graphics Designer</h4>
+                            <h3>Albert</h3>
+                            <h4>Electronic Engineer</h4>
                         </div>
                     </div>
                 </div>
@@ -404,8 +404,8 @@
                         </div>
 
                         <div class="team-deg">
-                            <h3>Kane Malane</h3>
-                            <h4>Wordpress Developer</h4>
+                            <h3>Simon</h3>
+                            <h4>Development Director</h4>
                         </div>
                     </div>
                 </div>
@@ -425,8 +425,8 @@
                         </div>
 
                         <div class="team-deg">
-                            <h3>Bob Malane</h3>
-                            <h4>Ios Developer</h4>
+                            <h3>Kenneth</h3>
+                            <h4>Marketing Director</h4>
                         </div>
                     </div>
                 </div>
