@@ -12,7 +12,7 @@
     <meta name="author" content="themefair">
 
     <!-- Site title -->
-    <title>PID Solved | Porportional Integral Derivative Solution</title>
+    <title>APID | Autonomous Porportional Integral Derivative (PID Solved!)</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -80,9 +80,8 @@
                                 <nav>
                                     <ul class="nav navbar-nav navbar-right">
                                         <li class="active"><a class="smooth_scroll" href="#slider">Home </a></li>
-                                        <li><a class="smooth_scroll" href="#feature"> About us</a></li>
-                                        <li><a class="smooth_scroll" href="#screenshot"> screenshot</a></li>
-                                        <li><a class="smooth_scroll" href="#pricing">Pricing</a></li>
+                                        <li><a class="smooth_scroll" href="#feature"> About Us</a></li>
+                                        <li><a class="smooth_scroll" href="#screenshot"> Screenshot</a></li>
                                         <li><a class="smooth_scroll" href="#team">Team</a></li>
                                         <li><a class="smooth_scroll" href="#review">Review</a></li>
                                         <li><a class="" href="blog.html">Blog</a></li>
@@ -114,7 +113,7 @@
                                 <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
                                     <div class="slider-content">
                                         <div class="slider-text">
-                                            <h2>Porportional Integral Derivative (PID)</h2>
+                                            <h2>Autonomous Porportional Integral Derivative</h2>
                                             <h3>solved!</h3>
                                             <p>Since the 1900's, the PID has not changed much. Manual input to meet desired output has been required, until now.</p>
                                             <a href="" class="btn btn-active">Started Now</a>
@@ -671,30 +670,6 @@
         </div>
     </div>
     <!-- Video area ends -->
-
-    <!-- Download area start -->
-    <section id="download" class="download-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <div class="download-option">
-                        <h3>Download Available on</h3>
-                        <a href="" class="btn btn-white-border">
-                            <i class="fa fa-apple"></i>
-                            <p class="down">Download on the
-                                <br> App store</p>
-                        </a>
-                        <a href="" class="btn btn-white-border">
-                            <i class="fa fa-android"></i>
-                            <p class="down">Download on the
-                                <br>Google store</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Download  area end -->
 
     <!-- Contact area starts -->
     <section id="contact" class="contact-area section-big">
