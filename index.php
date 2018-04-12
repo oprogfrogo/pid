@@ -19,7 +19,7 @@
     <meta name="author" content="themefair">
 
     <!-- Site title -->
-    <title>APID | Autonomous Porportional Integral Derivative (PID Solved!)</title>
+    <title>APID | Autonomous Proportional Integral Derivative (PID Solved!)</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -79,7 +79,7 @@
                             <div class="navbar-header">
                                 <a class="navbar-brand" href="index.php">
                                     <img src="assets/img/logo.png" alt="">
-                                    Autonomous Porportional Integral Derivative
+                                    Autonomous Proportional Integral Derivative
                                 </a>
                                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                     <span class="sr-only">Toggle navigation</span>
@@ -123,14 +123,14 @@
                                 <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
                                     <div class="slider-content">
                                         <div class="slider-text">
-                                            <h2>Porportional Integral Derivative Control</h2>
+                                            <h2>Proportional Integral Derivative Control</h2>
                                             <h3>Solved!</h3>
                                             <p>
                                               Since the 1900's, the PID has not changed much. Manual 
                                               input to meet desired output has been required, until now. 
                                               There are various tuning methods (100 or more) to estimate 
                                               the constants but no guarantee that acceptable control can be achieved.
-                                              We bring you the Autonomous Porportional Integral Derivative.
+                                              We bring you the Autonomous Proportional Integral Derivative.
                                             </p>
                                             <a href="" class="btn">Read More</a>
                                         </div>
