@@ -84,7 +84,6 @@
                                         <li><a class="smooth_scroll" href="#feature"> About Us</a></li>
                                         <li><a class="smooth_scroll" href="#screenshot"> Screenshot</a></li>
                                         <li><a class="smooth_scroll" href="#team">Team</a></li>
-                                        <li><a class="smooth_scroll" href="#review">Review</a></li>
                                         <li><a class="" href="blog.html">Blog</a></li>
                                     </ul>
                                 </nav>
@@ -94,7 +93,6 @@
                     </div>
                 </div>
                 <!-- Navigation ends -->
-
             </div>
         </div>
     </div>
@@ -208,7 +206,7 @@
                 <!-- section-title -->
                 <div class="section-title">
                     <h2>A Modern PID <span>for A Modern Age</span></h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                    <p>There are countless applications for the APID. Today, millions of outdated PID controllers can be vastly improved with the APID.</p>
                 </div>
             </div>
 
@@ -222,7 +220,7 @@
                                 <img src="assets/img/feture/f1.png" alt="">
                             </div>
                         </div>
-                        <h3>Pixel Perfect</h3>
+                        <h3>Aritificial Intelligence</h3>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </p>
                     </div>
                 </div>
@@ -236,7 +234,7 @@
                                 <img src="assets/img/feture/f2.png" alt="">
                             </div>
                         </div>
-                        <h3>Responsive Design</h3>
+                        <h3>Robotics</h3>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </p>
                     </div>
                 </div>
@@ -249,7 +247,7 @@
                                 <img src="assets/img/feture/f3.png" alt="">
                             </div>
                         </div>
-                        <h3>Retina Ready</h3>
+                        <h3>Industry</h3>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </p>
                     </div>
                 </div>
@@ -439,88 +437,6 @@
         </div>
     </section>
     <!-- Team area end -->
-
-    <!-- Review area Start -->
-    <div id="review" class="review-area section-big">
-        <div class="container">
-
-            <div class="row">
-                <!-- section-title -->
-                <div class="section-title white-title ">
-                    <h2>Client  <span>Review</span></h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-center">
-                    <div class="review-list mt-30">
-                        <!-- Single Review -->
-                        <div class="signle-review">
-                            <img src="assets/img/review/01.jpg" alt="">
-                            <div class="review-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                    consenam aliquam quaerat voluptatem.</p>
-                                <h3>Thomuse Even</h3>
-                                <p>Director</p>
-
-                                <div class="rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <!-- Single Review -->
-                        <div class="signle-review">
-                            <img src="assets/img/review/02.jpg" alt="">
-                            <div class="review-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                    consenam aliquam quaerat voluptatem.</p>
-                                <h3>Kane Malane</h3>
-                                <p>Wordpress Developer</p>
-
-                                <div class="rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <!-- Single Review -->
-                        <div class="signle-review">
-                            <img src="assets/img/review/03.jpg" alt="">
-                            <div class="review-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                    consenam aliquam quaerat voluptatem.</p>
-                                <h3>Vone Pual</h3>
-                                <p>Web Designer</p>
-
-                                <div class="rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <!-- review area ent-->
 
     <section id="work-feture" class="work-feture-area section-big">
         <div class="container">
