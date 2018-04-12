@@ -66,8 +66,9 @@
                     <div class="mainmenu">
                         <div class="navbar navbar-nobg">
                             <div class="navbar-header">
-                                <a class="navbar-brand" href="index.html">
+                                <a class="navbar-brand" href="index.php">
                                     <img src="assets/img/logo.png" alt="">
+                                    Autonomous Porportional Integral Derivative
                                 </a>
                                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                     <span class="sr-only">Toggle navigation</span>
@@ -113,9 +114,13 @@
                                 <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
                                     <div class="slider-content">
                                         <div class="slider-text">
-                                            <h2>Autonomous Porportional Integral Derivative</h2>
-                                            <h3>solved!</h3>
-                                            <p>Since the 1900's, the PID has not changed much. Manual input to meet desired output has been required, until now.</p>
+                                            <h2>The Porportional Integral Derivative Problem</h2>
+                                            <h3>Solved!</h3>
+                                            <p>
+                                              Since the 1900's, the PID has not changed much. Manual 
+                                              input to meet desired output has been required, until now.
+                                              We bring you the Autonomous Porportional Integral Derivative
+                                            </p>
                                             <a href="" class="btn btn-active">Started Now</a>
                                             <a href="" class="btn">Read More</a>
                                         </div>
@@ -818,7 +823,7 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="copyright-text text-center">
-                        <p>Copyright &copy; 2018. all right reserved by themefair27</p>
+                        <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script>. all right reserved by APID</p>
                     </div>
                 </div>
                 <a class="smooth_scroll" href="#home" id="scroll-to-top"><i class="fa fa-angle-up"></i></a>
