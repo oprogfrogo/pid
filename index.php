@@ -112,14 +112,15 @@
                                 <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
                                     <div class="slider-content">
                                         <div class="slider-text">
-                                            <h2>The Porportional Integral Derivative Problem</h2>
+                                            <h2>Porportional Integral Derivative Control</h2>
                                             <h3>Solved!</h3>
                                             <p>
                                               Since the 1900's, the PID has not changed much. Manual 
-                                              input to meet desired output has been required, until now.
-                                              We bring you the Autonomous Porportional Integral Derivative
+                                              input to meet desired output has been required, until now. 
+                                              There are various tuning methods (100 or more) to estimate 
+                                              the constants but no guarantee that acceptable control can be achieved.
+                                              We bring you the Autonomous Porportional Integral Derivative.
                                             </p>
-                                            <a href="" class="btn btn-active">Started Now</a>
                                             <a href="" class="btn">Read More</a>
                                         </div>
                                     </div>
