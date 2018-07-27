@@ -123,14 +123,21 @@
                                 <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
                                     <div class="slider-content">
                                         <div class="slider-text">
-                                            <h2>Proportional Integral Derivative Control</h2>
-                                            <h3>Solved!</h3>
+                                            <h2>PID Control Solved</h2>
                                             <p>
-                                              Since the 1900's, the PID has not changed much. Manual 
-                                              input to meet desired output has been required, until now. 
-                                              There are various tuning methods (100 or more) to estimate 
-                                              the constants but no guarantee that acceptable control can be achieved.
-                                              We bring you the Autonomous Proportional Integral Derivative.
+                                              Ever since PID (Proportional, Integral & Derivative) control was used, peoples were 
+                                              trying to figure out 3 PID control constants. Currently there are more than 100 different 
+                                              tuning methods available but there are no universal tuning methods that can handle variety 
+                                              of control systems. Now we have !
+                                            </p>
+                                            <p>
+                                              Our proprietary algorithm not only can explicitly solve 3 PID control constants but also can handle nagging dead time (lag time). This revolutionary algorithm has auto-tuning capability replacing current tuning methods which is labor intensive and time consuming. Our algorithm can achieve the target value at the fastest time possible without any instability or overshoot due to our proprietary technology. Any desired time varying target value can be achieved with minimal error (< 1%).
+                                            </p>
+                                            <p>
+                                              Our algorithm also has multi-variable PID control built in that goes beyond current single variable PID controller. Our algorithm is strictly driven by sensor data but also can work with available system models to determine the control constants. Our product is truly autonomous requiring minimal initial user input. Our product can be loaded onto Siemens or Rockwell PLC (Programmable Logic Controller) to interface with the existing control systems.
+                                            </p>
+                                            <p>
+                                              We've selected temperature controller as our algorithm verification hardware since temperature controller utilizes all 3 PID control constants. We've validated our algorithm with 1, 2 & 4 variable PID controller hardware. The worst case validation error with time varying target value was less than 1%.
                                             </p>
                                             <a href="" class="btn">Read More</a>
                                         </div>
