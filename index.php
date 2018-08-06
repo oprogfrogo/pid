@@ -19,7 +19,7 @@
     <meta name="author" content="themefair">
 
     <!-- Site title -->
-    <title>APID | Autonomous Proportional Integral Derivative (PID Solved!)</title>
+    <title>VCT | Veritas Control Technologies (PID Solved!)</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -59,8 +59,8 @@
 
 <body id="home">
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P67VTD5"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P67VTD5"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
     <!-- End Google Tag Manager (noscript) -->
   
     <!-- Preloader starts -->
