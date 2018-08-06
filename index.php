@@ -130,15 +130,6 @@
                                               tuning methods available but there are no universal tuning methods that can handle variety 
                                               of control systems. Now we have !
                                             </p>
-                                            <p>
-                                              Our proprietary algorithm not only can explicitly solve 3 PID control constants but also can handle nagging dead time (lag time). This revolutionary algorithm has auto-tuning capability replacing current tuning methods which is labor intensive and time consuming. Our algorithm can achieve the target value at the fastest time possible without any instability or overshoot due to our proprietary technology. Any desired time varying target value can be achieved with minimal error (< 1%).
-                                            </p>
-                                            <p>
-                                              Our algorithm also has multi-variable PID control built in that goes beyond current single variable PID controller. Our algorithm is strictly driven by sensor data but also can work with available system models to determine the control constants. Our product is truly autonomous requiring minimal initial user input. Our product can be loaded onto Siemens or Rockwell PLC (Programmable Logic Controller) to interface with the existing control systems.
-                                            </p>
-                                            <p>
-                                              We've selected temperature controller as our algorithm verification hardware since temperature controller utilizes all 3 PID control constants. We've validated our algorithm with 1, 2 & 4 variable PID controller hardware. The worst case validation error with time varying target value was less than 1%.
-                                            </p>
                                             <a href="" class="btn">Read More</a>
                                         </div>
                                     </div>
@@ -165,7 +156,9 @@
                                         <div class="slider-text">
                                             <h2>Autonomous Control</h2>
                                             <h3>precise and automatic</h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad </p>
+                                            <p>
+                                              Our proprietary algorithm not only can explicitly solve 3 PID control constants but also can handle nagging dead time (lag time). This revolutionary algorithm has auto-tuning capability replacing current tuning methods which is labor intensive and time consuming. Our algorithm can achieve the target value at the fastest time possible without any instability or overshoot due to our proprietary technology. Any desired time varying target value can be achieved with minimal error (< 1%).
+                                            </p>
                                             <a href="" class="btn btn-active">Started Now</a>
                                             <a href="" class="btn">Read More</a>
                                         </div>
@@ -194,7 +187,9 @@
                                         <div class="slider-text">
                                             <h2>Zero Model Architecture</h2>
                                             <h3>with our algorithm</h3>
-                                            <p>Rid the need to design a model for automation. Our algorithm makes automation autonomous. </p>
+                                            <p>
+                                              Our algorithm also has multi-variable PID control built in that goes beyond current single variable PID controller. Our algorithm is strictly driven by sensor data but also can work with available system models to determine the control constants. Our product is truly autonomous requiring minimal initial user input. Our product can be loaded onto Siemens or Rockwell PLC (Programmable Logic Controller) to interface with the existing control systems.
+                                            </p>
                                             <a href="" class="btn btn-active">Started Now</a>
                                             <a href="" class="btn">Read More</a>
                                         </div>
@@ -212,6 +207,36 @@
                 </div>
             </div>
 
+            <!-- Slider Item 01 -->
+            <div class="slider-table">
+                <div class="slider-cell">
+                    <div class="slider-item">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
+                                    <div class="slider-content">
+                                        <div class="slider-text">
+                                            <h2>Zero Model Architecture</h2>
+                                            <h3>with our algorithm</h3>
+                                            <p>
+                                              We've selected temperature controller as our algorithm verification hardware since temperature controller utilizes all 3 PID control constants. We've validated our algorithm with 1, 2 & 4 variable PID controller hardware. The worst case validation error with time varying target value was less than 1%.
+                                            </p>
+                                            <a href="" class="btn btn-active">Started Now</a>
+                                            <a href="" class="btn">Read More</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-4 col-sm-4 hidden-xs">
+                                    <div class="slider-img hidden-xs">
+                                        <img src="assets/img/slider/sm1.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </div>
     </section>
@@ -225,7 +250,12 @@
                 <!-- section-title -->
                 <div class="section-title">
                     <h2>A Modern PID <span>for A Modern Age</span></h2>
-                    <p>There are countless applications for the APID. Today, millions of outdated PID controllers can be vastly improved with the APID.</p>
+                    <p>
+                      Ever since PID (Proportional, Integral & Derivative) control was used, peoples were 
+                      trying to figure out 3 PID control constants. Currently there are more than 100 different 
+                      tuning methods available but there are no universal tuning methods that can handle variety 
+                      of control systems. Now we have !
+                    </p>
                 </div>
             </div>
 
@@ -239,8 +269,15 @@
                                 <i class="fa fa-cogs fa-2x"></i>
                             </div>
                         </div>
-                        <h3>Aritificial Intelligence</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </p>
+                        <h3>Autonomous Control</h3>
+                        <p>
+                          Our proprietary algorithm not only can explicitly solve 3 PID control constants but also 
+                          can handle nagging dead time (lag time). This revolutionary algorithm has auto-tuning capability 
+                          replacing current tuning methods which is labor intensive and time consuming. Our algorithm can 
+                          achieve the target value at the fastest time possible without any instability or overshoot due 
+                          to our proprietary technology. Any desired time varying target value can be achieved with 
+                          minimal error (< 1%).
+                        </p>
                     </div>
                 </div>
 
@@ -253,8 +290,14 @@
                                 <i class="fa fa-android fa-2x"></i>
                             </div>
                         </div>
-                        <h3>Robotics</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </p>
+                        <h3>Zero Model Architecture</h3>
+                        <p>
+                          Our algorithm also has multi-variable PID control built in that goes beyond current single 
+                          variable PID controller. Our algorithm is strictly driven by sensor data but also can work 
+                          with available system models to determine the control constants. Our product is truly autonomous 
+                          requiring minimal initial user input. Our product can be loaded onto Siemens or Rockwell 
+                          PLC (Programmable Logic Controller) to interface with the existing control systems.
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
@@ -266,28 +309,30 @@
                                 <i class="fa fa-industry fa-2x"></i>
                             </div>
                         </div>
-                        <h3>Industry</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the </p>
+                        <h3>Inner Workings</h3>
+                        <p>
+                          We've selected temperature controller as our algorithm verification hardware since temperature 
+                          controller utilizes all 3 PID control constants. We've validated our algorithm with 1, 2 & 4 variable 
+                          PID controller hardware. The worst case validation error with time varying target value was 
+                          less than 1%.
+                        </p>
                     </div>
                 </div>
-                <div class="col-xs-12">
-
-                    <!-- feture-mobile -->
+                <!-- <div class="col-xs-12">
                     <div class="feture-mobile">
                         <img src="assets/img/feture/f-mobile.png" alt="">
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
     <!-- feature area ends -->
 
     <!-- screenshot area start -->
-    <section id="screenshot" class="screenshot-area section-big">
+    <!-- <section id="screenshot" class="screenshot-area section-big">
         <div class="container">
 
             <div class="row">
-                <!-- section-title -->
                 <div class="section-title white-title">
                     <h2>Screen  <span>Shots</span></h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
@@ -344,22 +389,20 @@
                         </div>
                     </div>
 
-                    <!-- Add Arrows -->
                     <div class="swiper-button-next"><i class="fa fa-angle-right"></i></div>
                     <div class="swiper-button-prev"><i class="fa fa-angle-left"></i></div>
                 </div>
 
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- screenshot area end -->
 
     <!-- Team area start -->
-    <section id="team" class="team-area section-big">
+    <!-- <section id="team" class="team-area section-big">
         <div class="container">
 
             <div class="row">
-                <!-- section-title -->
                 <div class="section-title ">
                     <h2>Contributing <span>Members</span></h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
@@ -369,7 +412,6 @@
             <div class="row">
 
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <!-- Single Team 01  -->
                     <div class="single-team text-center mt-30">
                         <div class="team-photo">
                             <img src="assets/img/team/01.jpg" alt="">
@@ -390,7 +432,6 @@
                 </div>
 
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <!-- Single Team 02  -->
                     <div class="single-team text-center mt-30">
                         <div class="team-photo">
                             <img src="assets/img/team/02.jpg" alt="">
@@ -411,7 +452,6 @@
                 </div>
 
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <!-- Single Team 03  -->
                     <div class="single-team text-center mt-30">
                         <div class="team-photo">
                             <img src="assets/img/team/03.jpg" alt="">
@@ -432,7 +472,6 @@
                 </div>
 
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <!-- Single Team 04  -->
                     <div class="single-team text-center mt-30">
                         <div class="team-photo">
                             <img src="assets/img/team/04.jpg" alt="">
@@ -454,15 +493,14 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
     <!-- Team area end -->
 
     <!-- Faq area Start -->
-    <section id="faq" class="faq-area">
+    <!-- <section id="faq" class="faq-area">
         <div class="faq-top">
             <div class="container">
                 <div class="row">
-                    <!-- section-title -->
                     <div class="section-title  ">
                         <h2>FAQ</h2>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
@@ -476,11 +514,9 @@
                 <div class="row">
                     <div class="col-md-5 col-sm-6 col-xs-12">
 
-                        <!--FAQ start -->
                         <div class="accordian-box mt-30">
                             <div class="panel-according panel-group according-icon angle-icon" id="accordion-one">
 
-                                <!-- single faq-panel -->
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h3 class="panel-title">
@@ -495,7 +531,6 @@
                                     </div>
                                 </div>
 
-                                <!-- single faq-panel -->
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h3 class="panel-title">
@@ -509,7 +544,6 @@
                                     </div>
                                 </div>
 
-                                <!-- single faq-panel -->
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <h3 class="panel-title">
@@ -525,7 +559,6 @@
 
                             </div>
                         </div>
-                        <!--FAQ end -->
 
                     </div>
                     <div class="col-md-6 col-md-offset-1 col-sm-6 col-xs-12">
@@ -536,7 +569,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Faq area end -->
 
     <!-- Video area starts -->
@@ -544,9 +577,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <div class="video-content  text-center">
-                        <h2> official <span>Video</span> </h2>
-                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=xtZE3sMv6lg">
+                    <div class="video-content text-center" style="border: 3px solid #fff;">
+                        <a class="popup-youtube" href="assets/videos/2018-08-01_WF.mp4">
                             <i class="fa fa-play"></i>
                         </a>
                     </div>
@@ -668,16 +700,11 @@
 
                                     <button class="mc-submit btn btn-white-border" type="submit">Subscribe</button>
 
-                                    <!-- mailchimp-alerts Start -->
                                     <div class="mailchimp-alerts">
                                         <div class="mailchimp-submitting"></div>
-                                        <!-- mailchimp-submitting end -->
                                         <div class="mailchimp-success"></div>
-                                        <!-- mailchimp-success end -->
                                         <div class="mailchimp-error"></div>
-                                        <!-- mailchimp-error end -->
                                     </div>
-                                    <!-- mailchimp-alerts end -->
                                 </div>
                             </form>
 
@@ -703,7 +730,7 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="copyright-text text-center">
-                        <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script>. all right reserved by APID</p>
+                        <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script>. All right reserved by Veritas Control Technologies</p>
                     </div>
                 </div>
                 <a class="smooth_scroll" href="#home" id="scroll-to-top"><i class="fa fa-angle-up"></i></a>
