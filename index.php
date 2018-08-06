@@ -93,9 +93,8 @@
                                     <ul class="nav navbar-nav navbar-right">
                                         <li class="active"><a class="smooth_scroll" href="#slider">Home </a></li>
                                         <li><a class="smooth_scroll" href="#feature"> About Us</a></li>
-                                        <li><a class="smooth_scroll" href="#screenshot"> Screenshot</a></li>
-                                        <li><a class="smooth_scroll" href="#team">Team</a></li>
-                                        <li><a class="" href="blog.html">Blog</a></li>
+                                        <li><a class="smooth_scroll" href="#video"> Video Footage</a></li>
+                                        <li><a class="smooth_scroll" href="#contact"> Contact Us</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -124,13 +123,13 @@
                                     <div class="slider-content">
                                         <div class="slider-text">
                                             <h2>PID Control Solved</h2>
-                                            <p>
+                                            <p align="justify">
                                               Ever since PID (Proportional, Integral & Derivative) control was used, peoples were 
                                               trying to figure out 3 PID control constants. Currently there are more than 100 different 
                                               tuning methods available but there are no universal tuning methods that can handle variety 
                                               of control systems. Now we have !
                                             </p>
-                                            <a href="" class="btn">Read More</a>
+                                            <a class="btn smooth_scroll" href="#contact">Get In Touch</a>
                                         </div>
                                     </div>
                                 </div>
@@ -156,18 +155,21 @@
                                         <div class="slider-text">
                                             <h2>Autonomous Control</h2>
                                             <h3>precise and automatic</h3>
-                                            <p>
-                                              Our proprietary algorithm not only can explicitly solve 3 PID control constants but also can handle nagging dead time (lag time). This revolutionary algorithm has auto-tuning capability replacing current tuning methods which is labor intensive and time consuming. Our algorithm can achieve the target value at the fastest time possible without any instability or overshoot due to our proprietary technology. Any desired time varying target value can be achieved with minimal error (< 1%).
+                                            <p align="justify">
+                                              Our proprietary algorithm not only can explicitly solve 3 PID control constants but also can handle 
+                                              nagging dead time (lag time). This revolutionary algorithm has auto-tuning capability replacing current 
+                                              tuning methods which is labor intensive and time consuming. Our algorithm can achieve the target value at 
+                                              the fastest time possible without any instability or overshoot due to our proprietary technology. Any 
+                                              desired time varying target value can be achieved with minimal error (< 1%).
                                             </p>
-                                            <a href="" class="btn btn-active">Started Now</a>
-                                            <a href="" class="btn">Read More</a>
+                                            <a class="btn smooth_scroll" href="#contact">Get In Touch</a>
                                         </div>
                                     </div>
 
                                 </div>
                                 <div class="col-md-4 col-sm-4 hidden-xs">
                                     <div class="slider-img hidden-xs">
-                                        <img src="assets/img/slider/sm3.png" alt="">
+                                        <img src="assets/img/slider/sm2.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -187,18 +189,21 @@
                                         <div class="slider-text">
                                             <h2>Zero Model Architecture</h2>
                                             <h3>with our algorithm</h3>
-                                            <p>
-                                              Our algorithm also has multi-variable PID control built in that goes beyond current single variable PID controller. Our algorithm is strictly driven by sensor data but also can work with available system models to determine the control constants. Our product is truly autonomous requiring minimal initial user input. Our product can be loaded onto Siemens or Rockwell PLC (Programmable Logic Controller) to interface with the existing control systems.
+                                            <p align="justify">
+                                              Our algorithm goes beyond current single variable PID controller since it has multi-variable control 
+                                              capability built-in. Our algorithm can be driven by sensor data alone.  But it also can work with available 
+                                              system models if available to determine the control response. Our product is truly autonomous requiring 
+                                              minimal initial user input. Our product can be loaded onto Siemens or Rockwell PLC (Programmable Logic Controller) 
+                                              as an auto-controller option to interface with the existing control systems.
                                             </p>
-                                            <a href="" class="btn btn-active">Started Now</a>
-                                            <a href="" class="btn">Read More</a>
+                                            <a class="btn smooth_scroll" href="#contact">Get In Touch</a>
                                         </div>
                                     </div>
 
                                 </div>
                                 <div class="col-md-4 col-sm-4 hidden-xs">
                                     <div class="slider-img hidden-xs">
-                                        <img src="assets/img/slider/sm1.png" alt="">
+                                        <img src="assets/img/slider/sm2.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -216,20 +221,67 @@
                                 <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
                                     <div class="slider-content">
                                         <div class="slider-text">
-                                            <h2>Zero Model Architecture</h2>
-                                            <h3>with our algorithm</h3>
-                                            <p>
-                                              We've selected temperature controller as our algorithm verification hardware since temperature controller utilizes all 3 PID control constants. We've validated our algorithm with 1, 2 & 4 variable PID controller hardware. The worst case validation error with time varying target value was less than 1%.
+                                            <h2>Real World</h2>
+                                            <h3>data source</h3>
+                                            <p align="justify">
+                                              We've selected temperature controller as our algorithm verification test hardware since temperature controller utilizes 
+                                              all 3 PID control constants. We've validated our algorithm with 1, 2, 3 & 4 variable PID control hardware. The worst 
+                                              case transient error with time varying target value was less than 2% throughout the testing.
                                             </p>
-                                            <a href="" class="btn btn-active">Started Now</a>
-                                            <a href="" class="btn">Read More</a>
+                                            <p align="justify">
+                                              Multi-Variable Adaptive Control (MVAC) algorithm is a system response driven algorithm unlike PID which is error driven 
+                                              controller. MVAC algorithm not only has error correction but also sensor data driven system response built-in. This 
+                                              MVAC's feature make possible for a target variable to follow any desired time varying profile. Since MVAC algorithm 
+                                              determines system response autonomously, development of a system model for the controller is not necessary. This frees 
+                                              scientists and engineers to concentrate on design rather than developing control strategies. 
+                                            </p>
+                                            <a class="btn smooth_scroll" href="#contact">Get In Touch</a>
                                         </div>
                                     </div>
 
                                 </div>
                                 <div class="col-md-4 col-sm-4 hidden-xs">
                                     <div class="slider-img hidden-xs">
-                                        <img src="assets/img/slider/sm1.png" alt="">
+                                        <img src="assets/img/slider/sm2.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Slider Item 01 -->
+            <div class="slider-table">
+                <div class="slider-cell">
+                    <div class="slider-item">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-8 col-xs-12 col-md-offset-2">
+                                    <div class="slider-content">
+                                        <div class="slider-text">
+                                            <h2>Peformance</h2>
+                                            <h3>and speed</h3>
+                                            <p align="justify">
+                                              MVAC controller is 2 to 10 times faster than that of traditional PID controller due to its proprietary technology. Since MVAC 
+                                              can substantially improve controller speed, the overall manufacturing processing will improve proportionally. Implementation 
+                                              of MVAC will give you a leg up on your competitors in addition to time and cost savings. Since MVAC algorithm can work on any 
+                                              unknown linear system similar to PID, it is applicable to any linear control systems.
+                                            </p>
+                                            <p align="justify">
+                                              Any application where PID controllers are being used, MVAC can perform better, faster and cheaper with numerous additional 
+                                              state-of-art capabilities. The additional capabilities include handling of system time lag, unconditional stability, any 
+                                              desired time varying profile of target sensor, multi-variable disturbances, switching of control variable and target sensor 
+                                              is possible during operation reducing redundancy, notification of error build-up and only one initial user input is required.
+                                            </p>
+                                            <a class="btn smooth_scroll" href="#contact">Get In Touch</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-4 col-sm-4 hidden-xs">
+                                    <div class="slider-img hidden-xs">
+                                        <img src="assets/img/slider/sm2.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -250,7 +302,7 @@
                 <!-- section-title -->
                 <div class="section-title">
                     <h2>A Modern PID <span>for A Modern Age</span></h2>
-                    <p>
+                    <p align="justify">
                       Ever since PID (Proportional, Integral & Derivative) control was used, peoples were 
                       trying to figure out 3 PID control constants. Currently there are more than 100 different 
                       tuning methods available but there are no universal tuning methods that can handle variety 
@@ -260,7 +312,7 @@
             </div>
 
             <div class="row">
-                <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="col-md-6 col-sm-6 col-xs-12">
 
                     <!--single-feature-->
                     <div class="single-feature text-center">
@@ -270,7 +322,7 @@
                             </div>
                         </div>
                         <h3>Autonomous Control</h3>
-                        <p>
+                        <p align="justify">
                           Our proprietary algorithm not only can explicitly solve 3 PID control constants but also 
                           can handle nagging dead time (lag time). This revolutionary algorithm has auto-tuning capability 
                           replacing current tuning methods which is labor intensive and time consuming. Our algorithm can 
@@ -281,7 +333,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="col-md-6 col-sm-6 col-xs-12">
 
                     <!--single-feature-->
                     <div class="single-feature text-center">
@@ -291,7 +343,7 @@
                             </div>
                         </div>
                         <h3>Zero Model Architecture</h3>
-                        <p>
+                        <p align="justify">
                           Our algorithm also has multi-variable PID control built in that goes beyond current single 
                           variable PID controller. Our algorithm is strictly driven by sensor data but also can work 
                           with available system models to determine the control constants. Our product is truly autonomous 
@@ -300,7 +352,9 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
+              </div>
+              <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-12">
 
                     <!--single-feature-->
                     <div class="single-feature text-center">
@@ -309,12 +363,37 @@
                                 <i class="fa fa-industry fa-2x"></i>
                             </div>
                         </div>
-                        <h3>Inner Workings</h3>
-                        <p>
+                        <h3>Data Soure</h3>
+                        <p align="justify">
                           We've selected temperature controller as our algorithm verification hardware since temperature 
                           controller utilizes all 3 PID control constants. We've validated our algorithm with 1, 2 & 4 variable 
                           PID controller hardware. The worst case validation error with time varying target value was 
                           less than 1%.
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-sm-6 col-xs-12">
+
+                    <!--single-feature-->
+                    <div class="single-feature text-center">
+                        <div class="icon">
+                            <div class="icon-cell">
+                                <i class="fa fa-industry fa-2x"></i>
+                            </div>
+                        </div>
+                        <h3>Peformance and Speed</h3>
+                        <p align="justify">
+                          MVAC controller is 2 to 10 times faster than that of traditional PID controller due to its proprietary technology. Since MVAC 
+                          can substantially improve controller speed, the overall manufacturing processing will improve proportionally. Implementation 
+                          of MVAC will give you a leg up on your competitors in addition to time and cost savings. Since MVAC algorithm can work on any 
+                          unknown linear system similar to PID, it is applicable to any linear control systems.
+                        </p>
+                        <p align="justify">
+                          Any application where PID controllers are being used, MVAC can perform better, faster and cheaper with numerous additional 
+                          state-of-art capabilities. The additional capabilities include handling of system time lag, unconditional stability, any 
+                          desired time varying profile of target sensor, multi-variable disturbances, switching of control variable and target sensor 
+                          is possible during operation reducing redundancy, notification of error build-up and only one initial user input is required.
                         </p>
                     </div>
                 </div>
@@ -576,6 +655,9 @@
     <div id="video" class="video-area section-big">
         <div class="container">
             <div class="row">
+                <div class="section-title">
+                    <h2>Video <span>Footage</span></h2>
+                </div>
                 <div class="col-xs-12">
                     <div class="video-content text-center" style="border: 3px solid #fff;">
                         <a class="popup-youtube" href="assets/videos/2018-08-01_WF.mp4">
@@ -589,20 +671,20 @@
     <!-- Video area ends -->
 
     <!-- Contact area starts -->
-    <section id="contact" class="contact-area section-big">
+    <section id="contact" class="contact-area section-big" style="padding-top: 100px;">
         <div class="container">
 
             <div class="row">
                 <!-- section-title -->
                 <div class="section-title">
                     <h2>Keep in <span>Touch</span></h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                    <p>For licensing or inquires, please contact us at the email address below.</p>
                 </div>
             </div>
 
             <div class="row contact-infos text-center">
 
-                <div class="col-sm-4 col-xs-12">
+                <!-- <div class="col-sm-4 col-xs-12">
                     <div class="contact-info mt-30">
                         <div class="contact-icon ">
                             <i class="fa fa-phone"></i>
@@ -612,21 +694,21 @@
                             <br>(+880) 3568 5698
                         </p>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="col-sm-4 col-xs-12">
+                <div class="col-sm-12 col-xs-12">
                     <div class="contact-info mt-30">
+                      <a href="mailto:info@veritascontroltechnologies.com" title="Click to mail">
                         <div class="contact-icon ">
                             <i class="fa fa-envelope"></i>
                         </div>
+                        </a>
                         <p>
-                            <a href="mailto:info@mydomain.com" title="Click to mail">domainname@gmail.com, demo@gmail.com</a>
-                            <br>
-                            <a href="mailto:admin@mydomain.com" title="Click to mail">infoname@gmail.com</a>
+                            <a href="mailto:info@veritascontroltechnologies.com" title="Click to mail">info@veritascontroltechnologies.com</a>
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-4 col-xs-12">
+                <!-- <div class="col-sm-4 col-xs-12">
                     <div class="contact-info mt-30">
                         <div class="contact-icon">
                             <i class="fa fa-home"></i>
@@ -634,21 +716,15 @@
                         <p>1234, Park street avenue NewYork City,
                             <br> America</p>
                     </div>
-                </div>
+                </div> -->
             </div>
 
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-md-12">
-
-                    <!-- Contact form starts -->
                     <div class="contact-form">
-
-                        <!-- Submition status -->
                         <div id="form-messages"></div>
-
                         <form id="ajax-contact" action="assets/mailer.php" method="post">
                             <div class="row">
-
                                 <div class="col-md-4">
                                     <div class="form-group in_name">
                                         <input type="text" name="name" class="form-control" id="name" placeholder="Full Name" required="required">
@@ -664,7 +740,6 @@
                                         <input type="text" name="subject" class="form-control" id="subject" placeholder="Subject" required="required">
                                     </div>
                                 </div>
-
                                 <div class="col-md-12">
                                     <div class="form-group in_message">
                                         <textarea name="message" class="form-control" id="message" placeholder="Your Message" required="required"></textarea>
@@ -676,22 +751,20 @@
                             </div>
                         </form>
                     </div>
-                    <!-- Contact form ends-->
                 </div>
-            </div>
+            </div> -->
 
         </div>
     </section>
     <!-- contact area -->
 
     <!-- footer-top-area area ends -->
-    <section id="footer-top" class="footer-top-area section-big">
+    <!-- <section id="footer-top" class="footer-top-area section-big">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="footer-top text-center">
                         <img src="assets/img/logo.png" alt="">
-
                         <div class="newsletter">
                             <h1>Subcribe for Notification</h1>
                             <form id="mc-form" class="mc-form">
@@ -707,9 +780,7 @@
                                     </div>
                                 </div>
                             </form>
-
                         </div>
-
                         <div class="social-link">
                             <h3>follow us</h3>
                             <a href=""><i class="fa fa-facebook"></i></a>
@@ -721,7 +792,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Footer Top End -->
 
     <!-- copyright area starts -->
