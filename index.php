@@ -93,6 +93,7 @@
                                     <ul class="nav navbar-nav navbar-right">
                                         <li class="active"><a class="smooth_scroll" href="#slider">Home </a></li>
                                         <li><a class="smooth_scroll" href="#feature"> About Us</a></li>
+                                        <li><a class="smooth_scroll" href="#powerpoint"> Slide Presentation</a></li>
                                         <li><a class="smooth_scroll" href="#video"> Video Footage</a></li>
                                         <li><a class="smooth_scroll" href="#contact"> Contact Us</a></li>
                                     </ul>
