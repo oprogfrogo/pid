@@ -650,6 +650,23 @@
         </div>
     </section> -->
     <!-- Faq area end -->
+    
+    <!-- Power Point area starts -->
+    <div id="powerpoint" class="powerpoint-area section-big">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Slide <span>Presentation</span></h2>
+                </div>
+                <div class="col-xs-12">
+                    <div class="powerpoint-content text-center" style="border: 3px solid #fff;">
+                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&amp;resid=1A8C70CABA92D510%21106&amp;authkey=ANHPUzZ2qXYyFVE&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Video area ends -->
 
     <!-- Video area starts -->
     <div id="video" class="video-area section-big">
