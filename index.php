@@ -223,7 +223,7 @@
                                     <div class="slider-content">
                                         <div class="slider-text">
                                             <h2>Real World</h2>
-                                            <h3>data source</h3>
+                                            <h3>validation</h3>
                                             <p align="justify">
                                               We've selected temperature controller as our algorithm verification test hardware since temperature controller utilizes 
                                               all 3 PID control constants. We've validated our algorithm with 1, 2, 3 & 4 variable PID control hardware. The worst 
@@ -364,7 +364,7 @@
                                 <i class="fa fa-industry fa-2x"></i>
                             </div>
                         </div>
-                        <h3>Data Soure</h3>
+                        <h3>Validation</h3>
                         <p align="justify">
                           We've selected temperature controller as our algorithm verification hardware since temperature 
                           controller utilizes all 3 PID control constants. We've validated our algorithm with 1, 2 & 4 variable 
