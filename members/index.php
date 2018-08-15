@@ -79,7 +79,7 @@
                             <div class="navbar-header">
                                 <a class="navbar-brand" href="index.php">
                                     <img src="../assets/img/logo.png" alt="">
-                                    Autonomous Proportional Integral Derivative
+                                    Veritas Control Technologies
                                 </a>
                                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                     <span class="sr-only">Toggle navigation</span>

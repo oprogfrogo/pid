@@ -58,9 +58,55 @@
 </head>
 
 <body id="home">
+    <!-- Navigation area starts -->
+    <div class="menu-area navbar-fixed-top" style="background: #ccc;">
+        <div class="container">
+            <div class="row">
+
+                <!-- Navigation starts -->
+                <div class="col-md-12">
+                    <div class="mainmenu">
+                        <div class="navbar navbar-nobg">
+                            <div class="navbar-header">
+                                <a class="navbar-brand" href="index.php">
+                                    <img src="assets/img/logo.png" alt="">
+                                    Veritas Control Technologies
+                                </a>
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Navigation ends -->
+            </div>
+        </div>
+    </div>
+  
     <div style="position: fixed; top: 50%; left: 50%; margin-top: -50px; margin-left: -100px;">
       <a href="members" class="btn btn-success">Members Login</a>
     </div>
+    
+    <!-- copyright area starts -->
+    <footer class="copyright-area" style="position: fixed;bottom: 0;width: 100%;">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="copyright-text text-center">
+                        <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script>. All right reserved by Veritas Control Technologies</p>
+                    </div>
+                </div>
+                <a class="smooth_scroll" href="#home" id="scroll-to-top"><i class="fa fa-angle-up"></i></a>
+            </div>
+        </div>
+    </footer>
+    <!-- copyright area ends -->
+    
+    
     <!-- Latest jQuery -->
     <script src="assets/js/jquery.min.js"></script>
 
