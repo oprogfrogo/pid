@@ -660,8 +660,8 @@
                     <h2>Slide <span>Presentation</span></h2>
                 </div>
                 <div class="col-xs-12">
-                    <div class="powerpoint-content text-center" style="border: 3px solid #fff;">
-                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&amp;resid=1A8C70CABA92D510%21106&amp;authkey=ANHPUzZ2qXYyFVE&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
+                    <div class="powerpoint-content text-center">
+                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21113&authkey=ALJ0gYo4KNumT-U&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                 </div>
             </div>
@@ -677,7 +677,7 @@
                     <h2>Video <span>Footage</span></h2>
                 </div>
                 <div class="col-xs-12">
-                    <div class="video-content text-center" style="border: 3px solid #fff;">
+                    <div class="video-content text-center" style="border: 3px solid #fff; width: 800px; height: 466px; margin: 0 auto">
                         <a class="popup-youtube" href="../assets/videos/2018-08-01_WF.mp4">
                             <i class="fa fa-play"></i>
                         </a>
