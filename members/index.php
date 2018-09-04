@@ -125,8 +125,8 @@
                                         <div class="slider-text">
                                             <h2>PID Control Solved</h2>
                                             <p align="justify">
-                                              Ever since PID (Proportional, Integral & Derivative) control was used, peoples were 
-                                              trying to figure out 3 PID control constants. Currently there are more than 100 different 
+                                              Ever since PID (Proportional, Integral & Derivative) control was used, people tried to 
+                                              figure out 3 PID control constants. Currently there are more than 100 different 
                                               tuning methods available but there are no universal tuning methods that can handle variety 
                                               of control systems. Now we have !
                                             </p>
@@ -304,8 +304,8 @@
                 <div class="section-title">
                     <h2>A Modern PID <span>for A Modern Age</span></h2>
                     <p align="justify">
-                      Ever since PID (Proportional, Integral & Derivative) control was used, peoples were 
-                      trying to figure out 3 PID control constants. Currently there are more than 100 different 
+                      Ever since PID (Proportional, Integral & Derivative) control was used, people tried to 
+                      figure out 3 PID control constants. Currently there are more than 100 different 
                       tuning methods available but there are no universal tuning methods that can handle variety 
                       of control systems. Now we have !
                     </p>
@@ -660,16 +660,16 @@
                     <h2>Slide <span>Presentation</span></h2>
                 </div>
                 <div class="col-xs-12">
-                    <div class="powerpoint-content text-center">
-                      <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21119&authkey=ANOKliSwu5Rvfzg&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
+                    <div class="powerpoint-content text-center vertitas-control">
+                      <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21120&authkey=AIOwtqQC5JQmTUA&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
-                    <div class="powerpoint-content text-center">
+                    <div class="powerpoint-content text-center self-driving-car">
                         <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21116&authkey=ALvlwPZs2aSuO1g&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
-                    <div class="powerpoint-content text-center">
+                    <div class="powerpoint-content text-center aircraft altitude">
                         <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21117&authkey=ALuQJLRInl0stbA&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
-                    <div class="powerpoint-content text-center">
+                    <div class="powerpoint-content text-center position control">
                         <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21118&authkey=APZjLPe6xUvmuKg&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                 </div>
