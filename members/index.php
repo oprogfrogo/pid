@@ -661,10 +661,10 @@
                 </div>
                 <div class="col-xs-12">
                     <div class="powerpoint-content text-center vertitas-control">
-                      <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21130&authkey=AJ5CRkkIGbNHFsI&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
+                      <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21132&authkey=APyShzxXz0mwnK8&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                     <div class="powerpoint-content text-center self-driving-car">
-                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21128&authkey=AHfz6N8fqbclwUc&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
+                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21131&authkey=AKxup1ROy8EOQOE&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                     <div class="powerpoint-content text-center aircraft altitude">
                         <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21126&authkey=AAy7MggCbeCEKck&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
