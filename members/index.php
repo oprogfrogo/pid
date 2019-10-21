@@ -661,16 +661,16 @@
                 </div>
                 <div class="col-xs-12">
                     <div class="powerpoint-content text-center vertitas-control">
-                      <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21136&authkey=AInaKb33a2NI9mA&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
+                      <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21141&authkey=AIo23eVLf11zy-o&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                     <div class="powerpoint-content text-center self-driving-car">
-                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21135&authkey=AOA6urgTAkJDK7I&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
+                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21140&authkey=AIpU4AU3Vu9vmt8&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                     <div class="powerpoint-content text-center aircraft altitude">
-                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21133&authkey=ACaR9cohleQe9ZI&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
+                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21139&authkey=AH20f_2OrTS8gW4&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                     <div class="powerpoint-content text-center position control">
-                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21134&authkey=AGf9Q5teRW7I9Vg&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
+                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21138&authkey=AD9blW5ubFKFb0Y&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                 </div>
             </div>
