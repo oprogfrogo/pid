@@ -302,12 +302,13 @@
             <div class="row">
                 <!-- section-title -->
                 <div class="section-title">
-                    <h2>A Modern PID <span>for A Modern Age</span></h2>
+                    <h2>A State-of-Art PID <span>For A Modern Age</span></h2>
                     <p align="justify">
-                      Ever since PID (Proportional, Integral & Derivative) control was used, people tried to 
-                      figure out 3 PID control constants. Currently there are more than 100 different 
-                      tuning methods available but there are no universal tuning methods that can handle variety 
-                      of control systems. Now we have !
+                      Ever since PID (Proportional, Integral & Derivative) control 
+                      was used, people tried to figure out 3 PID control constants. 
+                      Currently there are more than 100 different tuning methods 
+                      available but there are no universal tuning methods that can 
+                      handle variety of linear and non-linear control systems. Now we have !
                     </p>
                 </div>
             </div>
@@ -324,12 +325,16 @@
                         </div>
                         <h3>Autonomous Control</h3>
                         <p align="justify">
-                          Our proprietary algorithm not only can explicitly solve 3 PID control constants but also 
-                          can handle nagging dead time (lag time). This revolutionary algorithm has auto-tuning capability 
-                          replacing current tuning methods which is labor intensive and time consuming. Our algorithm can 
-                          achieve the target value at the fastest time possible without any instability or overshoot due 
-                          to our proprietary technology. Any desired time varying target value can be achieved with 
-                          minimal error (< 1%).
+                          Our proprietary algorithm not only can explicitly solve 
+                          3 PID control constants but also can handle nagging 
+                          dead time (lag time). This revolutionary algorithm 
+                          has auto-tuning capability replacing current tuning 
+                          methods which is labor intensive and time consuming. 
+                          Our algorithm can achieve the target value at the 
+                          fastest time possible without any instability or 
+                          overshoot due to our proprietary technology. Any 
+                          desired time varying target value can be achieved 
+                          with minimal error.
                         </p>
                     </div>
                 </div>
@@ -343,13 +348,17 @@
                                 <i class="fa fa-android fa-2x"></i>
                             </div>
                         </div>
-                        <h3>Zero Model Architecture</h3>
+                        <h3>Zero Model Architecture for Linear Systems</h3>
                         <p align="justify">
-                          Our algorithm also has multi-variable PID control built in that goes beyond current single 
-                          variable PID controller. Our algorithm is strictly driven by sensor data but also can work 
-                          with available system models to determine the control constants. Our product is truly autonomous 
-                          requiring minimal initial user input. Our product can be loaded onto Siemens or Rockwell 
-                          PLC (Programmable Logic Controller) to interface with the existing control systems.
+                          Our algorithm also has multi-variable PID control 
+                          built-in that goes beyond current single variable PID 
+                          controllers. Our algorithm is strictly driven by 
+                          sensor data for linear systems, but also can work with 
+                          user supplied system models for the non-linear systems 
+                          as well. Our product is truly autonomous requiring 
+                          minimal user inputs. Our product can be loaded onto 
+                          Siemens or Rockwell PLC (Programmable Logic Controller) 
+                          to interface with the existing control systems.
                         </p>
                     </div>
                 </div>
@@ -366,10 +375,14 @@
                         </div>
                         <h3>Validation</h3>
                         <p align="justify">
-                          We've selected temperature controller as our algorithm verification hardware since temperature 
-                          controller utilizes all 3 PID control constants. We've validated our algorithm with 1, 2 & 4 variable 
-                          PID controller hardware. The worst case validation error with time varying target value was 
-                          less than 1%.
+                          We've selected temperature controller as our algorithm 
+                          verification hardware since temperature controller 
+                          utilizes all 3 PID control constants. We've validated 
+                          our algorithm with 1, 2 & 4 variable PID controller 
+                          hardware. The worst case validation error with time 
+                          varying target value was less than 1%.  The non-linear 
+                          system control is validated with multiple simulation 
+                          models, from robotics to self driving car and aircraft.
                         </p>
                     </div>
                 </div>
@@ -385,16 +398,28 @@
                         </div>
                         <h3>Peformance and Speed</h3>
                         <p align="justify">
-                          MVAC controller is 2 to 10 times faster than that of traditional PID controller due to its proprietary technology. Since MVAC 
-                          can substantially improve controller speed, the overall manufacturing processing will improve proportionally. Implementation 
-                          of MVAC will give you a leg up on your competitors in addition to time and cost savings. Since MVAC algorithm can work on any 
-                          unknown linear system similar to PID, it is applicable to any linear control systems.
+                          Our Universal Control Algorithm (UCA) is 2 to 10 times 
+                          faster than that of traditional controllers due to its 
+                          proprietary technology. Since UCA can substantially 
+                          improve controller speed, the overall manufacturing 
+                          processing will improve proportionally. Implementation 
+                          of UCA will give you a leg up on your competitors in 
+                          addition to time and cost savings. Since UCA algorithm 
+                          can work on any linear or non-linear systems, it is 
+                          applicable to any control systems.
                         </p>
                         <p align="justify">
-                          Any application where PID controllers are being used, MVAC can perform better, faster and cheaper with numerous additional 
-                          state-of-art capabilities. The additional capabilities include handling of system time lag, unconditional stability, any 
-                          desired time varying profile of target sensor, multi-variable disturbances, switching of control variable and target sensor 
-                          is possible during operation reducing redundancy, notification of error build-up and only one initial user input is required.
+                          Any application where PID controllers are being used, 
+                          UCA can perform better, faster and cheaper with numerous 
+                          additional state-of-art capabilities. The additional 
+                          capabilities include handling of system time lag, 
+                          unconditional stability, any desired time varying 
+                          profile of target sensor, multi-variable disturbances, 
+                          switching of control variable and target sensor due to 
+                          sensor failures are possible during operation reducing 
+                          redundancy in design.  Notification of error build-up 
+                          during operation will forewarn potential controller 
+                          failure in advance.
                         </p>
                     </div>
                 </div>
