@@ -686,7 +686,7 @@
                 </div>
                 <div class="col-xs-12">
                     <div class="powerpoint-content text-center vertitas-control">
-                      <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21141&authkey=AIo23eVLf11zy-o&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
+                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21142&authkey=ACw1rOvj-DPSzCs&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                     <div class="powerpoint-content text-center self-driving-car">
                         <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21140&authkey=AIpU4AU3Vu9vmt8&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
