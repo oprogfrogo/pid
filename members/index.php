@@ -68,7 +68,7 @@
     <!-- Preloader ends -->
 
     <!-- Navigation area starts -->
-    <div class="menu-area navbar-fixed-top">
+    <div class="menu-area navbar-fixed-top" style="background: #000">
         <div class="container">
             <div class="row">
 
@@ -686,7 +686,7 @@
                 </div>
                 <div class="col-xs-12">
                     <div class="powerpoint-content text-center vertitas-control">
-                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21142&authkey=ACw1rOvj-DPSzCs&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
+                        <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21356&authkey=AJCdQEQ7nejFC44&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
                     </div>
                     <div class="powerpoint-content text-center self-driving-car">
                         <iframe src="https://onedrive.live.com/embed?cid=1A8C70CABA92D510&resid=1A8C70CABA92D510%21140&authkey=AIpU4AU3Vu9vmt8&em=2" width="800" height="466" frameborder="0" scrolling="no"></iframe>
@@ -711,8 +711,17 @@
                     <h2>Video <span>Footage</span></h2>
                 </div>
                 <div class="col-xs-12">
-                    <div class="video-content text-center" style="border: 3px solid #fff; width: 800px; height: 466px; margin: 0 auto">
-                        <a class="popup-youtube" href="../assets/videos/2018-08-01_WF.mp4">
+                    <h3 style="text-align: center">Nonlinear Simulation Video</h3>
+                    <div class="video-content text-center" style="border: 3px solid #fff; width: 710px; height: 466px; margin: 0 auto">
+                        <a class="popup-youtube" href="../assets/videos/nonlinear_sim_video_final.mp4">
+                            <i class="fa fa-play"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xs-12">
+                    <h3 style="text-align: center">Thermal Test Video</h3>
+                    <div class="video-content text-center" style="border: 3px solid #fff; width: 710px; height: 466px; margin: 0 auto">
+                        <a class="popup-youtube" href="../assets/videos/thermal_test_video.mp4">
                             <i class="fa fa-play"></i>
                         </a>
                     </div>
